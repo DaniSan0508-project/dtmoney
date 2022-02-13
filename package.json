@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.26.0",
+    "miragejs": "^0.1.43",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
